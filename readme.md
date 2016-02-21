@@ -1,30 +1,6 @@
-app
-account
-index.controller.js
-index.html
-app-content
-app.css
-app-services
-flash.service.js
-user.service.js
-home
-index.controller.js
-index.html
-app.js
-index.html
-controllers
-api
-users.controller.js
-app.controller.js
-login.controller.js
-register.controller.js
-services
-user.service.js
-views
-partials
-footer.ejs
-header.ejs
-login.ejs
-register.ejs
-config.json
-server.js
+<h2> MEAN Stack User Registration and Login Example & Tutorial </h2>
+
+<link rel="stylesheet" type="text/css" href="http://web-a2d4f99d-db43-4034-857c-bc08486b2488.runnablecodesnippets.com/">http://web-a2d4f99d-db43-4034-857c-bc08486b2488.runnablecodesnippets.com/</link>
+
+<h4> git </h4>
+<link rel="stylesheet" type="text/css" href=" https://github.com/cornflourblue/mean-stack-registration-login-example"> https://github.com/cornflourblue/mean-stack-registration-login-example</link>
